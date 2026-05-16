@@ -1,0 +1,9 @@
+{
+  "admin": {
+    "current_state": "authenticated",
+    "context_data": {
+      "role": "admin"
+    },
+    "last_updated": "2026-05-16T17:57:55.201361"
+  }
+}

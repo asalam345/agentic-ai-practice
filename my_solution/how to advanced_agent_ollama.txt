@@ -1,0 +1,29 @@
+# Register a new user
+You: register john secret123
+
+# Login
+You: login john secret123
+
+# Create tasks
+You: create task Finish project report with priority high
+
+# List tasks
+You: list tasks
+
+# Update task status
+You: update task 1 to completed
+
+# Analyze tasks
+You: analyze my tasks
+
+# Generate report
+You: generate weekly report
+
+# Change workflow state
+You: set workflow state to reporting
+
+# Check status
+You: status
+
+# Logout
+You: logout
